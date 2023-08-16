@@ -1,5 +1,5 @@
 # cex_vs_dex
-# Foobar
+# Diferencias
 
 Foobar is a Python library for dealing with word pluralization.
 
